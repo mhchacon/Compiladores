@@ -1,0 +1,9 @@
+inicio
+    inteiro repita = 10;
+    inteiro faca2 = 20;
+    inteiro naoSei = repita + faca2;
+    
+    se (naoSei > 0) faca
+        leia;
+    fim
+fim

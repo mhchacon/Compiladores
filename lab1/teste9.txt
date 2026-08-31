@@ -1,0 +1,8 @@
+/* 
+   Inicio da configuracao.
+   As chaves abaixo servem como delimitadores 
+*/
+{
+    "Esta e uma string valida e fechada"
+    booleano teste = !nao;
+}

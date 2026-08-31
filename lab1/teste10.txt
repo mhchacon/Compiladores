@@ -1,0 +1,6 @@
+inicio
+    @variavel = 10 ~ 5;
+    booleano ^erro = falso;
+    
+    "Esta string vai estourar um erro na tela
+fim

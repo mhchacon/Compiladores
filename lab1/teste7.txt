@@ -1,0 +1,3 @@
+real valor_total;
+valor_total = 100 + 3.1415 * 2 / 50.5 - 10;
+retorne valor_total;

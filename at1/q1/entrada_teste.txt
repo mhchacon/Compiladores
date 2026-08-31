@@ -1,0 +1,2 @@
+O valor e 3.14 e o total, 42 itens!
+Fim da contagem.

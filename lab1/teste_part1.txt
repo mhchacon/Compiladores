@@ -1,0 +1,17 @@
+import sys
+
+# Definindo algumas variaveis de teste
+valor_inteiro = 100
+valor_real = 99.99
+
+if valor_inteiro > 50:
+return False
+elif valor_real < 10.0:
+while False:
+except_var = 1
+else:
+"Esta e uma string fechada corretamente"
+
+@ $ % 
+
+"Esta string vai gerar um erro porque nao foi fechada
